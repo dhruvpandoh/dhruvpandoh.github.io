@@ -9703,3 +9703,21 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+  #experience-heading {
+      margin-bottom: 30px; /* Adds space below Experience heading */
+  }
+  
+  #education-heading {
+      margin-top: 50px; /* Adds space above Education heading */
+      margin-bottom: 30px; /* Adds space below Education heading */
+  }
+  
+  /* h2 { margin-bottom: 5px; } 
+  p.job-title { margin-top: 5px; } */
+  
+
+  * {
+    margin: 0;
+    padding: 0;
+}
